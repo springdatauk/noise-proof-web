@@ -2,6 +2,8 @@
 
 Public **GitHub Pages** site for **Noise Proof** (Spring Data Limited): support and privacy URLs for **App Store Connect** and **Apple Review**.
 
+The parent **noiseProof** app repo lists `noise-proof-web/.git/` in **`.gitignore`** so you can keep this folder inside the app project without nested-repo noise when you use git at the app root.
+
 - **Support:** `support.html` — `hello@springdata.uk` (no in-app support UI in Noise Proof).
 - **Privacy:** `privacy-policy.html`
 
